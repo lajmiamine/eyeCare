@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="view_background">#e8ecfa</color>
+    <color name="btn_bg">#277bec</color>
+    <color name="white">#ffffff</color>
+    <color name="txt_font">#4e5572</color>
+    <color name="action_bar">#3F54c8</color>
+
+    <color name="colorPrimary">#3F51B5</color><!--Background color for AppBar-->
+    <color name="colorPrimaryDark">#303F9F</color><!--i ignore its use-->
+    <color name="colorAccent">#FF4081</color><!--color effects, EditText, RadioButtons...-->
+
+</resources>

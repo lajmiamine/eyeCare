@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/help_btn"
+        android:icon="@drawable/whitekey"
+        android:title="Log Out"/>
+
+    </menu>
